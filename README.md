@@ -1,6 +1,6 @@
 # Model-aware Representation Learning for Radial Distortion Rectification
 
-[page1-v4-crop.pdf](https://github.com/wwd-ustc/RDTR/files/9858508/page1-v4-crop.pdf)
+![1](https://github.com/wwd-ustc/RDTR/files/9858508/page1-v4-crop.pdf)
 
 ## Inference 
 1. Download the pretrained models from [Baidu Cloud](), and put them to `$ROOT/model_pretrained/`.
