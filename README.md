@@ -10,4 +10,5 @@
     ```
 
 ## Dataset
+For training the network, you need to download the source data from [Place365 dataset](http://places2.csail.mit.edu/download.html).
 The codes of dataset genaration are based on [PCN](https://github.com/uof1745-cmd/PCN) and [Blind](https://github.com/xiaoyu258/GeoProj). Thanks for their wonderful works.
