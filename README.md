@@ -11,4 +11,4 @@
     ```
 
 ## Acknowledgement
-The codes of dataset genaration are based on [PCN](https://github.com/uof1745-cmd/PCN) and [Blind](https://github.com/xiaoyu258/GeoProj). Thanks for their wonderful works.
+The codes are largely based on [PCN](https://github.com/uof1745-cmd/PCN) and [Blind](https://github.com/xiaoyu258/GeoProj). Thanks for their wonderful works.
