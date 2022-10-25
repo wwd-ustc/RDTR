@@ -9,5 +9,5 @@
     python inference.py
     ```
 
-## dataset
+## Dataset
 The codes of dataset genaration are based on [PCN](https://github.com/uof1745-cmd/PCN) and [Blind](https://github.com/xiaoyu258/GeoProj). Thanks for their wonderful works.
